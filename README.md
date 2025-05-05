@@ -9,6 +9,9 @@
 •	Backend Setup
 •	Contributing
 •	License
+. Update the README file with the following content:
+________________________________________
+Rag with supabase
 **🚀 Project Overview**
 PrintPaani is a comprehensive web application designed to provide custom water bottles while promoting water conservation. The platform allows users to customize water bottles, track the environmental impact of their orders, and get real-time support through AI-powered chatbots. It integrates a backend for data management, real-time analytics, and a dynamic frontend.
 The project utilizes Next.js, React 18.2.0, MongoDB, Supabase, and Gemini 1.5 Flash API for real-time customer support and seamless data flow.
